@@ -1,4 +1,5 @@
-body {
-    background-color:red;
-}
-
+code {
+	font-family: "Consolas", "Menlo", "Monaco", monospace, serif;
+	font-size: .9em;
+	background: red;
+	}
